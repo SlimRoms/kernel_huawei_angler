@@ -49,7 +49,7 @@ CONFIG_DEFAULT_TCP_CONG="westwood"
 CONFIG_IOSCHED_FIOPS=y
 
 # ----------------------------------------------------------------------------------
-# Hotplug support
+# Hotplug v2.11 support
 # ----------------------------------------------------------------------------------
 CONFIG_MSM_HOTPLUG=y
 
